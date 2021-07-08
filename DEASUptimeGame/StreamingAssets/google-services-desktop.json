@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422517629839",
+    "firebase_url": "https://howden-uptime-game.firebaseio.com",
+    "project_id": "howden-uptime-game",
+    "storage_bucket": "howden-uptime-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422517629839:android:6248f9a5fcd4dd1e5521fa",
+        "android_client_info": {
+          "package_name": "com.Howden.UptimeGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422517629839-cm4shi6gbnavdr76pjshq54d5gk6cafh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQe3vglWmoIG9w83HZCM999Dy4z4XBvzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422517629839-cm4shi6gbnavdr76pjshq54d5gk6cafh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "422517629839-0qoit45e5aqsrb8afecj5kv6k68h9nh9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Howden.UptimeGame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73618909863",
+    "firebase_url": "https://deas-ehab-game-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "deas-ehab-game",
+    "storage_bucket": "deas-ehab-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73618909863:android:6c790d899a230c94028982",
+        "android_client_info": {
+          "package_name": "com.SoheebKhan.DEASEHABGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73618909863-5l6qim714lqctsdoqm5ovo6b155n4mr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXitMT2clX1sCDD1WAA4KD3VE3gOHIbCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73618909863-5l6qim714lqctsdoqm5ovo6b155n4mr1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73618909863-g5m8gi3s3irle3njbvs56c1i3rhq7k17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.SoheebKhan.DEASEHABGame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
